@@ -3,12 +3,12 @@ The official implementation of the paper "TOWARDS OUT-OF-DISTRIBUTION DETECTION 
 
 Our code will be released after the acceptance of the paper.
 
-### Quick start
+## Quick start
 It will be updated after the code release.
 
-### Installation
+## Installation
 To be updated.
 
-### Citation
+## Citation
 To be updated.
 
