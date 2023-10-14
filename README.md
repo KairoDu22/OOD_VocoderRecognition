@@ -1,10 +1,14 @@
 # OOD_Vocoder Recognition
-The implementation of paper "TOWARDS OUT-OF-DISTRIBUTION DETECTION IN VOCODER RECOGNITION VIA LATENT FEATURE RECONSTRUCTION"
+The official implementation of the paper "TOWARDS OUT-OF-DISTRIBUTION DETECTION IN VOCODER RECOGNITION VIA LATENT FEATURE RECONSTRUCTION" (submitted to ICASSP 2023)
 
-Code will be released after the acceptance of the paper.
+Our code will be released after the acceptance of the paper.
 
-# Quick start
+### Quick start
+It will be updated after the code release.
 
-# Acknowledgement
+### Installation
+To be updated.
 
-# Citation
+### Citation
+To be updated.
+
